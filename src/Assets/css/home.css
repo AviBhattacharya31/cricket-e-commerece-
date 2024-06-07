@@ -1,0 +1,259 @@
+.page2{
+    margin-top: 230px;
+    font-size: 55px;
+}
+.page5{
+    margin-top: 380px;
+    font-size: 70px;
+    margin-left: 70px;
+}
+
+/* ===============raj============== */
+.raj1{
+    background-color: rgb(163, 163, 192);
+    height: 300px;
+}
+.raj2{
+    background-color: rgb(182, 155, 186);
+    margin-top: 75px;
+}
+.raj3{
+    float: left;
+}
+.raj31{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.raj4{
+    float: left;
+    margin-left: 20px;
+}
+.raj41{
+    text-align: center;
+}
+.raj42{
+    text-align: center;
+}
+.raj43{
+    text-align: center;
+}
+.raj51{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+/* 0000000000000000000000 */
+ .raj102{
+    background-color: rgb(213, 184, 184);
+    margin-top: 75px;
+}
+.raj103{
+    float: left;
+}
+.raj131{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.raj104{
+    float: left;
+    margin-left: 20px;
+}
+.raj141{
+    text-align: center;
+}
+.raj142{
+    text-align: center;
+}
+.raj143{
+    text-align: center;
+}
+.raj151{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+/* 000000000000000000000 */
+
+.raj202{
+    background-color: rgb(140, 168, 173);
+    margin-top: 75px;
+    
+}
+.raj203{
+    float: left;
+}
+.raj231{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.raj204{
+    float: left;
+    margin-left: 20px;
+}
+.raj241{
+    text-align: center;
+}
+.raj242{
+    text-align: center;
+}
+.raj243{
+    text-align: center;
+}
+.raj251{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+/* -----------------------------deep---------------------------- */
+.deep2{
+    text-align: center;
+    margin-top: 80px;
+}
+.deep1{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 15px;
+}
+.deep{
+    background-color: black;
+    margin-top: 40px;
+    color: white;
+    height: 50px;
+}
+.deep4{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+/* ****************************** small ************************************* */
+.small{
+    background-color: rgb(30, 26, 26);
+    color: white;
+    margin-top: 60px;
+}
+.small03{
+    background-color: rgb(30, 26, 26) ;
+    color: white;
+}
+.small04{
+    margin-top: 30px;
+}
+.small23{
+    background-color: rgb(30, 26, 26) ;
+    color: white;
+}
+.small41{
+    margin-top: 80px;
+}
+
+/* ---------------------big-------------------------- */
+.big2{
+    margin-top: 40px;
+}
+.big22{
+   text-align: center;
+}
+.big23{
+    text-align: center;
+    font-size: 60px;
+}
+.big3{
+    margin-top: 40px;
+}
+.big41{
+    margin-top: 220px;
+    margin-left: 20px;
+}
+.big42{
+    margin-left: 20px;
+}
+.big51{
+    margin-top: 220px;
+    margin-left: 20px;
+}
+.big52{
+    margin-left: 20px;
+}
+.big61{
+    margin-top: 220px;
+    margin-left: 20px;
+}
+.big62{
+    margin-left: 20px;
+}
+.big81{
+    margin-top: 220px;
+    margin-left: 20px;
+}
+.big82{
+    margin-left: 20px;
+}
+.big91{
+    margin-top: 220px;
+    margin-left: 20px;
+}
+.big92{
+    margin-left: 20px;
+}
+.big101{
+    margin-top: 220px;
+    margin-left: 20px;
+}
+.big102{
+    margin-left: 20px;
+}
+.big7{
+    margin-top: 50px;
+}
+.big11{
+    margin-top: 100px;
+}
+.big112{
+    text-align: center;
+}
+.big113{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+/* ************************************* media ************************************************************* */
+
+@media only screen and (max-width: 600px) {
+    .page1{
+        height: 450px;
+    }
+    .page2{
+        margin-top: 120px;
+        font-size: 45px;
+    }
+    .page3{
+        display: none;
+    }
+   
+    .page5{
+        margin-left: 0px;
+        margin-top: 50px;
+        font-size: 40px;
+        text-align: center;
+    }
+    /* =============================== */
+    .raj1{
+        background-color: rgb(163, 163, 192);
+        height: 750px;
+    }
+    .big5{
+        margin-top: 50px;
+    }
+    .big6{
+        margin-top: 50px;
+    }
+    .big9{
+        margin-top: 50px;
+    }
+    .big10{
+        margin-top: 50px;
+    }
+    
+
+}

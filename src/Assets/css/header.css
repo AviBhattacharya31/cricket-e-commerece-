@@ -1,0 +1,33 @@
+.active{
+    color: rgb(206, 184, 181);
+}
+.d2{
+    margin-left: 300px;
+}
+.d3{
+    font-size: large;
+}
+a{
+    color:rgb(36, 32, 32);
+}
+.d4{
+    font-size: 25px;
+}
+.d5{
+    font-size: 25px;
+}
+
+@media only screen and (max-width: 600px) {
+
+
+    .bg-body-tertiary{
+        text-align: center;
+    }
+    .d2{
+        margin-left: 0px;
+    }
+    .d4{
+        display: none;
+    }
+
+}

@@ -1,0 +1,301 @@
+.main{
+    height: 160px;
+    background-color: #1a1818;
+    color: white;
+}
+.main1{
+    text-align: center;
+}
+.main2{
+    margin-top: 30px;
+    font-size: 60px;
+}
+/* -------------------kk------------------------- */
+.kk{
+    background-color: rgb(226, 220, 239);
+}
+
+.kk1{
+    margin-top: 60px;
+}
+.kk11{
+    height: 335px;
+}
+.kk12{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.kk13{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.kk14{
+    text-align: center;
+}
+.kk15{
+    text-align: center;
+}
+.kk2{
+    margin-top: 60px;
+}
+.kk21{
+    height: 335px;
+}
+.kk22{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.kk23{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.kk24{
+    text-align: center;
+}
+.kk25{
+    text-align: center;
+}
+.kk3{
+    margin-top: 60px;
+}
+.kk31{
+    height: 335px;
+}
+.kk32{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.kk33{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.kk34{
+    text-align: center;
+}
+.kk35{
+    text-align: center;
+}
+.kk4{
+    margin-top: 60px;
+}
+.kk41{
+    height: 335px;
+}
+.kk42{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.kk43{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.kk44{
+    text-align: center;
+}
+.kk45{
+    text-align: center;
+}
+
+/* --------------------------rr------------------------ */
+.rr1{
+    margin-top: 60px;
+}
+.rr11{
+    height: 335px;
+}
+.rr12{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.rr13{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.rr14{
+    text-align: center;
+}
+.rr15{
+    text-align: center;
+}
+.rr2{
+    margin-top: 60px;
+}
+.rr21{
+    height: 335px;
+}
+.rr22{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.rr23{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.rr24{
+    text-align: center;
+}
+.rr25{
+    text-align: center;
+}
+.rr3{
+    margin-top: 60px;
+}
+.rr31{
+    height: 335px;
+}
+.rr32{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.rr33{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.rr34{
+    text-align: center;
+}
+.rr35{
+    text-align: center;
+}
+.rr4{
+    margin-top: 60px;
+}
+.rr41{
+    height: 335px;
+}
+.rr42{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.rr43{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.rr44{
+    text-align: center;
+}
+.rr45{
+    text-align: center;
+}
+
+/* ---------------------------cc----------------------- */
+
+.cc1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.cc11{
+    height: 335px;
+}
+.cc12{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.cc13{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.cc14{
+    text-align: center;
+}
+.cc15{
+    text-align: center;
+}
+.cc2{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.cc21{
+    height: 335px;
+}
+.cc22{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.cc23{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.cc24{
+    text-align: center;
+}
+.cc25{
+    text-align: center;
+}
+.cc3{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.cc31{
+    height: 335px;
+}
+.cc32{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.cc33{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.cc34{
+    text-align: center;
+}
+.cc35{
+    text-align: center;
+}
+.cc4{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.cc41{
+    height: 335px;
+}
+.cc42{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.cc43{
+    background-color: rgb(226, 220, 239);
+    margin-left: 0px;
+}
+.cc44{
+    text-align: center;
+}
+.cc45{
+    text-align: center;
+}
+.cc5{
+    margin-left: 580px;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+ 
+    .main{
+        height: 100px;
+    }
+    .main2{
+        margin-top: 10px;
+        font-size: 40px;
+    }
+    .main3{
+        font-size: 10px;
+    }
+
+}

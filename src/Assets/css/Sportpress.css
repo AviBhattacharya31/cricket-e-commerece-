@@ -1,0 +1,169 @@
+.taru{
+    height: 160px;
+    background-color: #1a1818;
+    color: white;
+}
+.taru11{
+    text-align: center;
+}
+.taru12{
+    margin-top: 30px;
+    font-size: 60px;
+}
+.taru0{
+    background-color: #e6e2eb;
+}
+.taru21{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.taru22{
+    background-color: white;
+}
+.taru23{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.taru24{
+    margin-left: 25px;
+    font-size: 40px;
+}
+.taru25{
+    margin-left: 25px;
+    font-size: 20px;
+}
+/* ====================taru26s=================== */
+.kkr{
+    background-color: rgb(240, 61, 12);
+    height: 10px;
+}
+.kkr1{
+    background-color: black;
+    color:white;
+    height: 60px;
+}
+.kkr2{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.kkr3{
+    background-color: white;
+    border-style: groove;
+}
+.taru31{
+    float: left;
+    margin-top: 30px;
+}
+.taru33{
+    float: left;
+    text-align: center;
+    margin-left: 460px;
+
+}
+.taru37{
+    float: right;
+    margin-top: 30px;
+}
+/* ---------------------------- */
+.kkr4{
+    background-color: white;
+    border-style: groove;
+}
+.taru41{
+    float: left;
+    margin-top: 30px;
+}
+.taru43{
+    float: left;
+    text-align: center;
+    margin-left: 460px;
+
+}
+.taru47{
+    float: right;
+    margin-top: 30px;
+}
+/* ------------------------------- */
+
+.kkr5{
+    background-color: white;
+    border-style: groove;
+}
+.taru51{
+    float: left;
+    margin-top: 30px;
+}
+.taru53{
+    float: left;
+    text-align: center;
+    margin-left: 460px;
+
+}
+.taru57{
+    float: right;
+    margin-top: 30px;
+}
+/* -----------------kk6--------------- */
+.kkr6{
+    background-color: white;
+    border-style: groove;
+}
+.taru61{
+    float: left;
+    margin-top: 30px;
+}
+.taru63{
+    float: left;
+    text-align: center;
+    margin-left: 460px;
+
+}
+.taru67{
+    float: right;
+    margin-top: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .taru21{
+        margin-bottom: 0px;
+        margin-left: 35px;
+    }
+    .taru31{
+        margin-top: 25px;
+    }
+    .taru33{
+        margin-left: 35px;
+    }
+    .taru37{
+        margin-top: 25px;
+    }
+    .taru41{
+        margin-top: 25px;
+    }
+    .taru43{
+        margin-left: 35px;
+    }
+    .taru47{
+        margin-top: 25px;
+    }
+    .taru51{
+        margin-top: 25px;
+    }
+    .taru53{
+        margin-left: 35px;
+    }
+    .taru57{
+        margin-top: 25px;
+    }
+    .taru61{
+        margin-top: 25px;
+    }
+    .taru63{
+        margin-left: 35px;
+    }
+    .taru67{
+        margin-top: 25px;
+    }
+}
+

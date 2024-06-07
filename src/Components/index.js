@@ -1,0 +1,10 @@
+export { default as Home } from "./Home";
+export { default as Header } from "./Header";
+export { default as Pages} from "./Pages";
+export { default as Sportpress } from "./Sportpress";
+export { default as Shop} from "./Shop";
+export { default as Footer } from "./Footer";
+export { default as Blog } from "./Blog";
+export { default as Login } from "./Login";
+export { default as Item } from "./Item";
+export { default as Pagle } from "./Pagle";
